@@ -12,8 +12,8 @@ import (
 )
 
 const (
-	TimerIntervalSecond = 5
-	ReconnectWaitSecond = 15
+	TimerIntervalSecond = 1
+	ReconnectWaitSecond = 5
 
 	wsPath = "/ws"
 	feedPath = "/feed"
